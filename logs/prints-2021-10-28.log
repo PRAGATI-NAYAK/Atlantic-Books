@@ -1,0 +1,54 @@
+19:55:52.949 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+19:55:53.289 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to Categories
+19:55:55.600 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to Computers Category Page
+19:55:56.580 [main] INFO  com.mindtree.runner.AtlanticApplication - Got the Recommended books
+19:56:03.013 [main] INFO  com.mindtree.runner.AtlanticApplication - got the first recommended book
+19:56:03.290 [main] INFO  com.mindtree.runner.AtlanticApplication - adding the book to cart
+19:56:09.456 [main] INFO  com.mindtree.runner.AtlanticApplication - checking the cart
+19:56:13.174 [main] INFO  com.mindtree.runner.AtlanticApplication - view the cart info
+19:56:16.092 [main] INFO  com.mindtree.runner.AtlanticApplication - proceed to checkout
+19:56:27.254 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+19:56:27.479 [main] INFO  com.mindtree.runner.AtlanticApplication - Successfully validated Text
+19:56:28.927 [main] INFO  com.mindtree.runner.AtlanticApplication -  entered email id
+19:56:29.196 [main] INFO  com.mindtree.runner.AtlanticApplication - entered password
+19:56:43.551 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+19:56:43.596 [main] INFO  com.mindtree.runner.AtlanticApplication - Successfully validated Text
+19:56:46.245 [main] INFO  com.mindtree.runner.AtlanticApplication -  entered email id
+19:56:46.526 [main] INFO  com.mindtree.runner.AtlanticApplication - entered password
+19:57:07.178 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 1
+19:57:10.299 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 2
+19:57:13.555 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 3
+21:00:34.919 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+21:00:35.081 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to Categories
+21:00:48.266 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to Computers Category Page
+21:00:48.801 [main] INFO  com.mindtree.runner.AtlanticApplication - Got the Recommended books
+21:01:01.226 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+21:01:01.260 [main] INFO  com.mindtree.runner.AtlanticApplication - Successfully validated Text
+21:01:02.416 [main] INFO  com.mindtree.runner.AtlanticApplication -  entered email id
+21:01:02.507 [main] INFO  com.mindtree.runner.AtlanticApplication - entered password
+21:01:13.405 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+21:01:13.434 [main] INFO  com.mindtree.runner.AtlanticApplication - Successfully validated Text
+21:01:14.211 [main] INFO  com.mindtree.runner.AtlanticApplication -  entered email id
+21:01:14.296 [main] INFO  com.mindtree.runner.AtlanticApplication - entered password
+21:01:35.036 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 1
+21:01:51.899 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 2
+21:02:02.269 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 3
+21:03:44.028 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+21:03:44.132 [main] INFO  com.mindtree.runner.AtlanticApplication - Successfully validated Text
+21:03:45.145 [main] INFO  com.mindtree.runner.AtlanticApplication -  entered email id
+21:03:45.244 [main] INFO  com.mindtree.runner.AtlanticApplication - entered password
+21:03:55.972 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+21:03:56.011 [main] INFO  com.mindtree.runner.AtlanticApplication - Successfully validated Text
+21:03:56.823 [main] INFO  com.mindtree.runner.AtlanticApplication -  entered email id
+21:03:56.941 [main] INFO  com.mindtree.runner.AtlanticApplication - entered password
+21:04:08.117 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 1
+21:04:10.512 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 2
+21:04:12.784 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 3
+21:04:23.806 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to home page
+21:04:23.968 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to Categories
+21:04:25.598 [main] INFO  com.mindtree.runner.AtlanticApplication - navigated to Computers Category Page
+21:04:26.216 [main] INFO  com.mindtree.runner.AtlanticApplication - Got the Recommended books
+21:04:31.828 [main] INFO  com.mindtree.runner.AtlanticApplication - got the first recommended book
+21:04:31.954 [main] INFO  com.mindtree.runner.AtlanticApplication - adding the book to cart
+21:04:38.075 [main] INFO  com.mindtree.runner.AtlanticApplication - checking the cart
+21:04:41.294 [main] INFO  com.mindtree.runner.AtlanticApplication - view the cart info
